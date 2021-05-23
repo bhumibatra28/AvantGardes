@@ -1,0 +1,30 @@
+#sec {
+  width: 100%;
+  height: 100vh;
+  background: url("../../assets/img/Small%20Screen.png") center / cover no-repeat;
+}
+
+@media (min-width: 768px) {
+  #sec {
+    background: url("../../assets/img/Big%20Screen.png") center / cover no-repeat;
+  }
+}
+
+#nuno {
+  align-content: center;
+}
+
+#navcol-1 {
+}
+
+#cont {
+  background: rgba(252,252,252,0);
+  margin: 5px;
+  width: 90%;
+  height: auto;
+  padding: 9px;
+}
+
+#divi {
+}
+
